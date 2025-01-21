@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:to_do_list/app/splash_screen.dart';
 import 'package:to_do_list/config/config.dart';
 import 'package:to_do_list/screens/initScreen.dart';
 
@@ -28,7 +29,7 @@ class _FlutterTaskManagementAppState
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
-      home: InitScreen(currentSelectedIndex: 0),
+      home: SplashScreen(),
     );
   }
 }
