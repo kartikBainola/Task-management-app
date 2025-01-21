@@ -1,4 +1,4 @@
-# task-management-app 
+# Task-management-app 
 
 
 ## Description
@@ -49,4 +49,4 @@ To get started with the development setup on your local machine, follow these st
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/yourusername/yourproject.git](https://github.com/kartikBainola/Task-management-app.git
