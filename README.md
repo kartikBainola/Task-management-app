@@ -1,8 +1,9 @@
 # Task-management-app 
 
-
 ## Description
 This is a Flutter project that uses MVVM architecture to structure the app. It includes features like local notifications, data storage, and more, with a clean and maintainable structure.
+
+The app supports theme changes based on the system preferences, allowing users to switch between light and dark modes automatically.
 
 ## Installation
 
@@ -12,6 +13,10 @@ To install the app on your Android smartphone:
 2. Open the downloaded file to install the app on your device.
 
 Ensure you have allowed installation from unknown sources in your device settings if required.
+
+## Screenshots
+
+App screenshots can be found in the "App" folder.
 
 ## Packages Used
 
@@ -42,6 +47,10 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture, separatin
 - **View**: Displays the UI and binds to the ViewModel for data updates.
 - **ViewModel**: Handles the business logic and communicates between the View and Model.
 
+## Theme
+
+The app's theme can automatically switch between **light** and **dark** modes based on the system preferences. This allows the user to experience a seamless visual experience that aligns with their device settings.
+
 ## Setup
 
 To get started with the development setup on your local machine, follow these steps:
@@ -49,4 +58,4 @@ To get started with the development setup on your local machine, follow these st
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git](https://github.com/kartikBainola/Task-management-app.git
+   git clone https://github.com/kartikBainola/Task-management-app.git
